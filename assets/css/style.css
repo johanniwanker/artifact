@@ -1,3 +1,4 @@
 body {
-  background-color: #f6f6f6;
+background-image: url('../img/hjemmesidebaggrund.png');
+background-size: cover;
 }
