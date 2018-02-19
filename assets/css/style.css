@@ -2,3 +2,8 @@ body {
 background-image: url('../img/hjemmesidebaggrund.png');
 background-size: cover;
 }
+.tekstboks {
+    background-color: #F1F1F1;
+    width: 200px;
+    height: 3000px;
+}
