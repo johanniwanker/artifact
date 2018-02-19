@@ -1,6 +1,7 @@
 body {
 background-image: url('../img/hjemmesidebaggrund.png');
 background-size: cover;
+background-color: #f2f2f2;
 background-repeat: no-repeat;
 }
 .tekstboks {
