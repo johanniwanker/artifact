@@ -1,8 +1,14 @@
 body {
 background-image: url('../img/hjemmesidebaggrund.png');
+<<<<<<< HEAD
 background-size:100% auto;
 background-repeat: no-repeat;
 background-color: #f6f6f6;
+=======
+background-size: cover;
+background-color: #f2f2f2;
+background-repeat: no-repeat;
+>>>>>>> aa5bafefd7d52dafa99873e1d36e993be44ff9cc
 }
 .tekstboks {
     background-color: #F1F1F1;
