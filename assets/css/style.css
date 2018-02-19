@@ -4,6 +4,8 @@ background-size: cover;
 }
 .tekstboks {
     background-color: #F1F1F1;
-    width: 200px;
+    width: 250px;
     height: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
 }
