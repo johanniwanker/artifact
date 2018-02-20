@@ -1,14 +1,18 @@
 body {
 <<<<<<< HEAD
+<<<<<<< HEAD
 background-image: url('../img/hjemmesidebaggrund.png');
 background-size:100% auto;
 background-repeat: no-repeat;
 background-color: #f6f6f6;
 =======
+=======
+>>>>>>> 630c1cdd9aa617a5558ba7a0151ecb27a3c5e76c
   background-image: url('../img/hjemmesidebaggrund.png');
   background-size:100% auto;
   background-repeat: no-repeat;
   background-color: #f6f6f6;
+<<<<<<< HEAD
 >>>>>>> 630c1cdd9aa617a5558ba7a0151ecb27a3c5e76c
 }
 
@@ -23,6 +27,11 @@ background-color: #f6f6f6;
     padding: 0 0 0 10px;
   }
 =======
+=======
+}
+
+.tekstboks {
+>>>>>>> 630c1cdd9aa617a5558ba7a0151ecb27a3c5e76c
   width: 250px;
   height: 300px;
   margin-left: 30px;
