@@ -47,7 +47,7 @@ background-color: #f6f6f6;
 
 .engelsk:hover{
   opacity: 1;
-  height: 180px;
+  height: 170px;
 }
 .dansk {
   background-color: #F1F1F1;
@@ -58,8 +58,14 @@ background-color: #f6f6f6;
   margin-top: 60px;
   padding: 0 0 0 10px;
   font-size: 18px;
+  opacity: 0;
+  transition: opacity 0.2s, transform 1s, height 1s, width 1s;
 }
 
+.dansk:hover{
+  opacity: 1;
+  height: 180px;
+}
 .historie{
   background-color: #F1F1F1;
   width: 250px;
@@ -67,6 +73,13 @@ background-color: #f6f6f6;
   font-family: 'Source Sans Pro';
   margin-left: 950px;
   margin-top: -520px;
-  padding: 10px 0 0 10px;
+  padding: 0 0 0 10px;
   font-size: 18px;
+  opacity: 0;
+  transition: opacity 0.2s, transform 1s, height 1s, width 1s;
+}
+
+.historie:hover{
+  opacity: 1;
+  height: 200px;
 }
