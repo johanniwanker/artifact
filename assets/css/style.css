@@ -92,4 +92,11 @@ background-color: #f6f6f6;
   margin-top: 90px;
   padding: 10px 0 0 10px;
   font-size: 18px;
+  opacity: 0;
+  transition: opacity 0.2s, transform 1s, height 1s, width 1s;
+}
+
+.kreativ:hover{
+  opacity: 1;
+  height: 290px;
 }
