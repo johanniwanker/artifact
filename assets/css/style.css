@@ -32,3 +32,13 @@ background-color: #f6f6f6;
   height: 195px;
   width: 250px;
 }
+.engelsk {
+  background-color: #F1F1F1;
+  width: 250px;
+  height: 150px;
+  font-family: 'Source Sans Pro';
+  margin-left: 660px;
+  margin-top: -220px;
+  padding: 10px 0 0 10px;
+  font-size: 18px;
+}
